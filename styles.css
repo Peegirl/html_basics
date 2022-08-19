@@ -18,6 +18,17 @@
       text-decoration: none;
       font-weight: bold;
   }
-  
+  .image{
+    position: absolute;
+}
+.logo{
+    display: flex;
+    position: relative;
+    margin-top: 10rem;
+    margin-left: 10rem;
+}
+.logo>h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
   
   
